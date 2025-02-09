@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <path
+    d="M7.5 11.2a4.5 4.5 0 0 1 8.55-2 4 4 0 1 1 1.95 7.7H6.5a3.5 3.5 0 0 1 1-5.7Z"
+    fill="currentColor"
+    opacity="0.85"
+  />
+  <rect x="6" y="16.5" width="12" height="2" rx="1" fill="currentColor" opacity="0.6" />
+</svg>
